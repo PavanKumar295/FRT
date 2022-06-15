@@ -3,7 +3,7 @@ In this Project I created a website regarding the tourisim.\
 Which will help the customers to select their place from home to travel over there and also they can contact us to clarify their doubt at any time.\
 This is a 24/7 service the customer can contact us at any time.\
 I have deployed my project in the Azure Portal the link is given below\
-Azure Link : - 
+Azure Link : - https://green-flower-008b1c910.1.azurestaticapps.net
 
 Screen Shots of the project is given below : -
 # Home Page : - 
